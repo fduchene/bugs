@@ -1,4 +1,4 @@
-#Bugs collection 
+# Bugs collection 
 > A list of bugs used for academic research purposes
 
 This is a collection of different bugs meant to be anaylzed for academic research.
